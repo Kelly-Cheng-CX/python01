@@ -1,0 +1,7 @@
+test_register_success (d1_unittest.test_case01.test_register.TestRegister) ... ok
+test_recharge_success (d1_unittest.test_case01.test_recharge.TestRecharge) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK

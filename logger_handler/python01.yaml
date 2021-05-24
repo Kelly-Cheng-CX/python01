@@ -1,0 +1,15 @@
+logger:
+  name:python01
+  level:BEBUG
+  file:python01.txt
+
+excel:
+  file:case.xlsx
+  sheet:login
+
+request:
+  method:post
+
+demo:
+  - 小鹿
+  - CX
